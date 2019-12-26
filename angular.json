@@ -90,33 +90,11 @@
              
             ],
             "styles": [
-              "src/styles.css",
-              "src/assets/lib/jqvmap/jqvmap.min.css",
-              "src/assets/lib/typicons.font/typicons.css",
-              "src/assets/lib/prismjs/themes/prism-vs.css",
-              "src/assets/lib/select2/css/select2.min.css",
-              "src/assets/lib/datatables.net-dt/css/jquery.dataTables.min.css",
-              "src/assets/lib/datatables.net-responsive-dt/css/responsive.dataTables.min.css",
-              "src/assets/lib/ion-rangeslider/css/ion.rangeSlider.min.css",
-              "src/assets/css/dashforge.dashboard.css",
-              "src/assets/css/dashforge.demo.css"
+              "src/styles.css"
 
               ],
               "scripts": [
-                "src/assets/lib/jquery/jquery.min.js",
-                "src/assets/lib/jquery.flot/jquery.flot.js",
-                "src/assets/lib/jquery.flot/jquery.flot.stack.js",
-                "src/assets/lib/jquery.flot/jquery.flot.resize.js",
-                "src/assets/lib/chart.js/Chart.bundle.min.js",
-                "src/assets/js/dashforge.aside.js",
-                "src/assets/js/dashforge.sampledata.js",
-                "src/assets/js/dashforge.contacts.js",
-                "src/assets/js/dashforge.settings.js",
-                "src/assets/lib/select2/js/select2.min.js",
-                "src/assets/lib/datatables.net/js/jquery.dataTables.min.js",
-                "src/assets/lib/datatables.net-dt/js/dataTables.dataTables.min.js",
-                "src/assets/lib/datatables.net-responsive/js/dataTables.responsive.min.js",
-                "src/assets/lib/datatables.net-responsive-dt/js/responsive.dataTables.min.js"
+               
               ]
           }
         },
