@@ -26,7 +26,34 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/assets/lib/bootstrap/js/bootstrap.bundle.min.js",
+              "src/assets/lib/feather-icons/feather.min.js",
+              "src/assets/lib/perfect-scrollbar/perfect-scrollbar.min.js",
+              "src/assets/lib/chart.js/Chart.bundle.min.js", 
+              "src/assets/lib/jquery.flot/jquery.flot.js", 
+              "src/assets/lib/jquery.flot/jquery.flot.stack.js", 
+              "src/assets/lib/jquery.flot/jquery.flot.resize.js", 
+              "src/assets/lib/datatables.net/js/jquery.dataTables.min.js", 
+              "src/assets/lib/datatables.net-dt/js/dataTables.dataTables.min.js", 
+              "src/assets/lib/datatables.net-responsive/js/dataTables.responsive.min.js", 
+              "src/assets/lib/datatables.net-responsive-dt/js/responsive.dataTables.min.js", 
+              "src/assets/lib/select2/js/select2.min.js", 
+              "src/assets/lib/prismjs/prism.js",
+              "src/assets/lib/jqvmap/jquery.vmap.min.js",
+              "src/assets/lib/jqvmap/maps/jquery.vmap.world.js",
+              "src/assets/lib/jqvmap/maps/jquery.vmap.usa.js",
+              "src/assets/lib/jqvmap/maps/jquery.vmap.canada.js",
+              "src/assets/js/dashforge.js",
+              "src/assets/js/jquery.vmap.sampledata.js",
+              "src/assets/js/dashforge.aside.js", 
+              "src/assets/js/dashforge.sampledata.js", 
+              "src/assets/lib/js-cookie/js.cookie.js", 
+              "src/assets/js/dashforge.contacts.js", 
+              "src/assets/lib/select2/js/select2.min.js", 
+              "src/assets/js/custom.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,7 +121,7 @@
 
               ],
               "scripts": [
-               
+              
               ]
           }
         },
